@@ -1,4 +1,6 @@
 # Proyectos realizados Nodejs
 
-Este es un repositorio de ejemplos realizados con la herramienta Nodejs.
-(Esta hecho para proposito personal. Cualquier persona puede ver y modificar este repositorio).
+Notas:
+	1.- Este es un repositorio de ejemplos realizados con la herramienta Nodejs.
+	2.- Esta hecho para proposito personal. Cualquier persona puede ver y modificar este repositorio.
+	3.- Cada carpeta tiene diferentes funcionalidades con su respectiva descripcion.
