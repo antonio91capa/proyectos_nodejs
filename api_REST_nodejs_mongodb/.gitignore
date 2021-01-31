@@ -1,0 +1,19 @@
+node_modules/
+build
+dist
+
+.DS_Store
+.npm
+
+# Variables de entorno
+.env
+.env.test
+
+# Logs
+logs
+npm-debug.log*
+yarn-debug.log*
+*.log
+
+# Directorios y archivos de VSCode
+.vscode
